@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">No:01_攝氏轉華氏</string>
+    <string name="Fahrenheit">華氏溫度：</string>
+    <string name="Celsius">攝氏溫度：</string>
+    <string name="Button1">轉換</string>
+    <string name="F_Hint">請輸入溫度數值</string>
+    <string name="Error_Text">輸入錯誤！請重新輸入溫度數值</string>
+</resources>
